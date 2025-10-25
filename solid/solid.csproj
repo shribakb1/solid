@@ -12,4 +12,12 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="LiskovSubstitution\" />
+    <Folder Include="InterfaceSegregation\" />
+    <Folder Include="DependencyInversion\" />
+    <Folder Include="OpenClosed\" />
+    <Folder Include="SingleResposibility\" />
+  </ItemGroup>
+
 </Project>
